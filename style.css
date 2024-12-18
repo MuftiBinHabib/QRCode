@@ -1,0 +1,22 @@
+.card {
+  width: 421px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.card .image {
+  padding-top: 20px;
+  width: 400px;
+  padding: 10px 10px 0 10px;
+}
+.card .heading {
+  font-family: "Outfit", serif;
+  font-weight: 700;
+  width: 359px;
+  text-align: center;
+  padding-left: 10px;
+}
+.card .heading2 {
+  font-family: "Outfit", serif;
+  font-weight: 400;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
